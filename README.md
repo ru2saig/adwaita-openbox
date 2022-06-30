@@ -17,4 +17,4 @@ ObAdwaita
 
 
 ObAdwaita-Dark
-![](https://raw.githubusercontent.com/ru2saig/adwiata-openbox/master/screenshots/obadwaita-dark.png)
+![](https://raw.githubusercontent.com/ru2saig/adwaita-openbox/master/screenshots/obadwaita-dark.png)
